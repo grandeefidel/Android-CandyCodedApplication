@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,23 +199,31 @@
       <option name="project" value="LOCAL" />
       <updated>1601553310487</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third Commit">
+      <created>1601556688569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601556688569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1601551679804">
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1601556875932">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601551679804" />
-    <state x="332" y="24" key="CommitChangelistDialog2" timestamp="1601553309652">
+    <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601556875932" />
+    <state x="332" y="24" key="CommitChangelistDialog2" timestamp="1601556687770">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="332" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601553309652" />
+    <state x="332" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601556687770" />
     <state width="1540" height="220" key="GridCell.Tab.0.bottom" timestamp="1601553401826">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -233,9 +240,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1540" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601553401826" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601553623277">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601556700964">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601553623277" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601556700964" />
   </component>
 </project>
